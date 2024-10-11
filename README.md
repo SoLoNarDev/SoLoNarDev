@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SoLoNarDev
 - 👀 I’m interested GameDev in Godot and Unity 
-- 📫 How to reach me githubsolonardev@gmail.com
+- 📫 How to reach me berlinnasove@gmail.com
